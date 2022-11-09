@@ -3,7 +3,7 @@ root: ./docs/
 redirects:
     setup: README.md
     setup/install: setup/install/README.md
-    setup/install/install-devtron-with-cicd: getting-started/install/install-devtron-with-cicd
+    setup/install/install-devtron-with-cicd: getting-started/install/install-devtron-with-cicd#check-devtron-installation-status
     setup/install/install-devtron: getting-started/install/install-devtron
     setup/install/installation-configuration: getting-started/install/installation-configuration
     setup/install/override-default-devtron-installation-configs: getting-started/install/override-default-devtron-installation-configs
